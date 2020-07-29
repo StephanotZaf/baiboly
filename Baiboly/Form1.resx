@@ -117,4 +117,59 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <metadata name="bunifuFormDock1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="bunifuGradientPanel1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAUSURBVChTY/hPJBhViBdQW+H//wAj+46A3TfWvAAAAABJ
+        RU5ErkJggg==
+</value>
+  </data>
+  <data name="bunifuButton4.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAPwAAAAtCAYAAACKyQbtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEvSURBVHhe7dOxTcRQFETR34jXlEIFtGYjyiAmpZRtgIgG
+        vtmVJnQDeM5IJ3l66R1mVrZ1O17WfX7e9uMALuZ9fj0bT+5j3Lb5ffoIXMKyzXtyfwR/8gBcS3IXPDRI
+        7oKHBsld8NAguQseGiR3wUOD5C54aJDcBQ8NkrvgoUFyFzw0SO6ChwbJXfDQILkLHhokd8FDg+QueGiQ
+        3AUPDZK74KFBchc8NEjugocGyV3w0CC5Cx4aJHfBQ4PkLnhokNwFDw2Su+ChQXIXPDRI7oKHBsld8NAg
+        uQseGiR3wUOD5C54aJDcBQ8NkrvgoUFyFzw0SO6ChwbJXfDQILkLHhokd8FDg+QueGiQ3MdYtnk/ewCu
+        Ydnnb3IfY92O18fh5+wR+N+esS8f8y25m1nHxvgDpwo0rayzdvwAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="bunifuButton3.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAPwAAAAtCAYAAACKyQbtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEvSURBVHhe7dOxTcRQFETR34jXlEIFtGYjyiAmpZRtgIgG
+        vtmVJnQDeM5IJ3l66R1mVrZ1O17WfX7e9uMALuZ9fj0bT+5j3Lb5ffoIXMKyzXtyfwR/8gBcS3IXPDRI
+        7oKHBsld8NAguQseGiR3wUOD5C54aJDcBQ8NkrvgoUFyFzw0SO6ChwbJXfDQILkLHhokd8FDg+QueGiQ
+        3AUPDZK74KFBchc8NEjugocGyV3w0CC5Cx4aJHfBQ4PkLnhokNwFDw2Su+ChQXIXPDRI7oKHBsld8NAg
+        uQseGiR3wUOD5C54aJDcBQ8NkrvgoUFyFzw0SO6ChwbJXfDQILkLHhokd8FDg+QueGiQ3MdYtnk/ewCu
+        Ydnnb3IfY92O18fh5+wR+N+esS8f8y25m1nHxvgDpwo0rayzdvwAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="bunifuButton2.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAPwAAAAtCAYAAACKyQbtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEvSURBVHhe7dOxTcRQFETR34jXlEIFtGYjyiAmpZRtgIgG
+        vtmVJnQDeM5IJ3l66R1mVrZ1O17WfX7e9uMALuZ9fj0bT+5j3Lb5ffoIXMKyzXtyfwR/8gBcS3IXPDRI
+        7oKHBsld8NAguQseGiR3wUOD5C54aJDcBQ8NkrvgoUFyFzw0SO6ChwbJXfDQILkLHhokd8FDg+QueGiQ
+        3AUPDZK74KFBchc8NEjugocGyV3w0CC5Cx4aJHfBQ4PkLnhokNwFDw2Su+ChQXIXPDRI7oKHBsld8NAg
+        uQseGiR3wUOD5C54aJDcBQ8NkrvgoUFyFzw0SO6ChwbJXfDQILkLHhokd8FDg+QueGiQ3MdYtnk/ewCu
+        Ydnnb3IfY92O18fh5+wR+N+esS8f8y25m1nHxvgDpwo0rayzdvwAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="bunifuButton1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAPwAAAAtCAYAAACKyQbtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEvSURBVHhe7dOxTcRQFETR34jXlEIFtGYjyiAmpZRtgIgG
+        vtmVJnQDeM5IJ3l66R1mVrZ1O17WfX7e9uMALuZ9fj0bT+5j3Lb5ffoIXMKyzXtyfwR/8gBcS3IXPDRI
+        7oKHBsld8NAguQseGiR3wUOD5C54aJDcBQ8NkrvgoUFyFzw0SO6ChwbJXfDQILkLHhokd8FDg+QueGiQ
+        3AUPDZK74KFBchc8NEjugocGyV3w0CC5Cx4aJHfBQ4PkLnhokNwFDw2Su+ChQXIXPDRI7oKHBsld8NAg
+        uQseGiR3wUOD5C54aJDcBQ8NkrvgoUFyFzw0SO6ChwbJXfDQILkLHhokd8FDg+QueGiQ3MdYtnk/ewCu
+        Ydnnb3IfY92O18fh5+wR+N+esS8f8y25m1nHxvgDpwo0rayzdvwAAAAASUVORK5CYII=
+</value>
+  </data>
 </root>
